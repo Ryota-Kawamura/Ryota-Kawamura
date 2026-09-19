@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<img height="150" src="https://github-readme-stats-rose-delta-65.vercel.app/api?username=Ryota-Kawamura&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues,contribs&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+<img height="150" src="https://github-readme-stats-rose-delta-65.vercel.app/api?username=Ryota-Kawamura&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,contribs&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
 <img height="150" src="https://github-readme-stats-rose-delta-65.vercel.app/api/top-langs/?username=Ryota-Kawamura&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
 
 </div>
