@@ -1,8 +1,6 @@
 <div align="center">
 
-# Ryota Kawamura
-
-**Foxconn** &nbsp;·&nbsp; Japan &nbsp;·&nbsp; Exploring Generative AI, LLMs &amp; Machine Learning
+**Exploring Generative AI, LLMs &amp; Machine Learning**
 
 <br>
 
